@@ -1,4 +1,5 @@
-kyoo_db
-logs
+kyoo_db/*
+logs/*
 keyfile
 back-up
+private.key.pub
